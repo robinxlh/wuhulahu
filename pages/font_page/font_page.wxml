@@ -1,0 +1,8 @@
+<view class = "font_page">
+  <view class="font_page_image">
+  <view class="poem">
+  {{jinrishici}}
+  </view>
+  <image src="../../img/front_page.jpg"></image>
+  </view>
+</view>

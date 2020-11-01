@@ -1,0 +1,26 @@
+page{
+  height: 100%;
+  width: 100%;
+}
+.font_page{
+  height: 100%;
+  width: 100%;
+}
+.font_page_image{
+  height: 100%;
+  width: 100%;
+}
+.font_page image{
+  height: 100%;
+  width: 100%;
+}
+.poem{
+  position: absolute;
+  height: 100%;
+  width: 100%;
+  z-index: 0;
+  text-align: center;
+  top: 65%;
+  font-family: LiSu;
+  font-size: 30rpx;
+}
