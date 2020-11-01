@@ -21,7 +21,6 @@ Page({
   onReady: function () {
     jinrishici.load(result => {
       // 下面是处理逻辑示例
-      console.log(result),
       this.setData({"jinrishici": result.data.content})
     })
   },
